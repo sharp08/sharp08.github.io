@@ -1,0 +1,1 @@
+import{_ as t,d as n,c}from"./_plugin-vue_export-helper-DPIR5E7S.js";const e={__name:"BackToIndexButton",setup(a){function o(){window.location.href="./"}return(s,_)=>(n(),c("button",{class:"back-to-index-btn",onClick:o},"首页"))}},d=t(e,[["__scopeId","data-v-f11216a5"]]);export{d as B};
